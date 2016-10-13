@@ -1,0 +1,120 @@
+nav {
+	margin-top: 3%;
+	list-style-type: none;
+	margin-right: 25%;
+	padding: 0;
+}
+
+.logo {
+	float: left;
+	margin-left: 25%;
+	max-width: 13%;
+}
+
+.side_image {
+	margin-top: 3px;
+	margin-bottom: 10px;
+	max-width: 50%;
+	padding: 5px;
+}
+
+.wide_image {
+	max-width: 100%;
+}
+
+.left {
+	padding-right: 3.5%;
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+#Camera {
+	max-height: 400px;
+}
+
+td {
+	padding-right: 20px;
+}
+
+nav li {
+	float: right;
+	display: block;
+}
+
+nav li a {
+    color: #000;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+nav li a:hover {
+    background-color: rgb(91,145,198);
+    color: white;
+}
+
+article {
+	padding: 5px;
+}
+
+header {
+	background-color: rgb(241,241,241);
+	padding-top: 5px;
+	font-family: Hind;
+	margin: -8px;
+	padding-bottom: 100px;
+}
+
+.reference {
+	font-size: 17px;
+	color: rgba(0,0,0,.8);
+	text-decoration: none;
+}
+
+.subtitle {
+	font-family: Hind;
+	font-size: 24px;
+	color: rgb(0,0,0);
+}
+
+.sub-subtitle {
+	font-family: Hind;
+	font-size: 18px;
+	color: rgb(0,0,0);
+}
+
+.active {
+    background-color: rgba(71,135,197,0.5);
+    color: white;
+}
+
+.main_page {
+	margin-left: 23%;
+	margin-right: 23%;
+	margin-top: 1%;
+	padding-bottom: 3%;
+}
+
+.main_text {
+	font-family: Open Sans, Helvetica, Verdana;
+	font-size: 16px;
+	margin: 3px;
+	color: rgba(0,0,0,.6);
+	line-height: 150%;
+}
+
+nav {
+	font-size: 16px;
+}
+
+hr {
+  border: 0;
+  width: 100%;
+  background-color: rgba(71,135,197,0.5);
+  height: 2px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
